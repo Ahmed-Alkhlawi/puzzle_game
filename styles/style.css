@@ -1,0 +1,42 @@
+select:invalid {
+	color:grey;
+}
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+div#questions_container {
+	margin-left: 50%;
+	
+}
+
+div#canvas_container {
+	margin-left: 20%;
+	margin-top: 10%;
+}
+
+
+#first_question {
+	display:hidden;
+}
+
+#second_question {
+	display:hidden;
+}
+
+#third_question {
+	display:hidden;
+}
+
+#fourth_question {
+	display:hidden;
+}
+
+#fifth_question {
+	display:hidden;
+}
+
+#sixth_question {
+	display:hidden;
+}
